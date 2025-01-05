@@ -151,7 +151,7 @@ nav ul li a:hover {
     align-items: center;
     padding: 5px;
     margin: 5px;
-    animation: fadeInUpward 1s;
+    animation: fadeInUpward 1.5s;
 }
 
 .card-heading-container {
