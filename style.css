@@ -21,9 +21,11 @@ body {
     align-items: center;
 }
 
+/*
 .logo {
     width: 85px;
 }
+*/
 
 nav {
     flex-grow: 1;
